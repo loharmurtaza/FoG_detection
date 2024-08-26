@@ -1,0 +1,1 @@
+This folder contains results based on the subject-dependent study mode. The results are reported for accuracy, sensitivity, specificity, precision, F1 score,  AUC score, and MFCC metrics. Due to the imbalance nature of available multi-modal FoG dataset, for final evaluation of classification task, F1 score is proposed.
